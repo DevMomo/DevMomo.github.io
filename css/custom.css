@@ -67,6 +67,13 @@
   border-bottom: 1px solid #ddd;
 }
 
+/* Links
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+a {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
 /* Categories
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .categories {
