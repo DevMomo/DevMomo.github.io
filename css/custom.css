@@ -61,6 +61,27 @@
   font-weight: 300;
 }
 
+/* Gallery
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.gallery {
+  background-image: url('../images/gallery.png');
+  background-size: cover;
+  color: #fff;
+  padding-bottom: 5rem;
+  text-align: center;
+}
+.gallery-multiplier {
+  margin-bottom: .5rem;
+  color: #11DFC7;
+}
+.gallery-heading {
+  margin-bottom: .3rem;
+}
+.gallery-description {
+  opacity: .8;
+  font-weight: 300;
+}
+
 /* Help
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .get-help {
