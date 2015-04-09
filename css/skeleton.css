@@ -40,6 +40,12 @@
   width: 100%;
   float: left;
   box-sizing: border-box; }
+.middlecolumn {
+  width: 100%;
+  float: center;
+  padding-left: 100px;
+  padding-right: 100px;
+  box-sizing: border-box; }
 
 /* For devices larger than 400px */
 @media (min-width: 400px) {
